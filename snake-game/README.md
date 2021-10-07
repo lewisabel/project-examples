@@ -4,6 +4,6 @@ An brief exploration of classes and other object-oriented programming concepts i
 
 ### Techniques
 
-- p5.js library
-- p5.collide2d.js library
+- [p5.js library](https://p5js.org/)
+- [p5.collide2d.js library](https://github.com/bmoren/p5.collide2D/blob/master/README.md)
 - Object-oriented programming
