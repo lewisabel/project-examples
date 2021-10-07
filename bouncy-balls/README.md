@@ -4,5 +4,5 @@ This project was inspired by [a Sony commercial](https://youtu.be/0_bx8bnCoiU). 
 
 ### Techniques
 
-- p5.js library
+- [p5.js library](https://p5js.org/)
 - Object-oriented programming
