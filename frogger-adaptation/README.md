@@ -9,7 +9,7 @@ This is an adaptation of the classic arcade game "Frogger". It uses the p5.js li
 - [p5.collide2d.js library](https://github.com/bmoren/p5.collide2D/blob/master/README.md)
 - Object-Oriented Programming
 
-### Planning to Implement
+### Future Implementation
 
 - Scoring system
 - Use of sprites
