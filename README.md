@@ -1,3 +1,3 @@
 # Projects
 
-Here is a collection of some projects focusing on object-oriented programming concepts in Javascript.
+This is a collection of some projects focusing on object-oriented programming concepts in Javascript.
